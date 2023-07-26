@@ -1,6 +1,6 @@
 ### FaceMaskDetector
 * Created by Priyansh Agarwal
-* (https://github.com/ShubhamDhiman413)
+* (https://github.com/priyansh201480/Face-mask-detection-model)
 * Building a simple facemask detector using Deep Learning and CNN architecture and OpenCV
 
 ### How to use:
