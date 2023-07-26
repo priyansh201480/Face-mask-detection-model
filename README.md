@@ -1,7 +1,7 @@
 ### FaceMaskDetector
-* Created by Shubham Dhiman
+* Created by Priyansh Agarwal
 * (https://github.com/ShubhamDhiman413)
-* Building a simple facemask detector using Deep Learning(Keras) and OpenCV
+* Building a simple facemask detector using Deep Learning and CNN architecture and OpenCV
 
 ### How to use:
 * Install the packages in the requirements.txt file
